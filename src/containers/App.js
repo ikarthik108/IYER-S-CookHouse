@@ -1,7 +1,8 @@
 import React from 'react';
-import CardList from './CardList';
-import {items} from './items';
-import SearchBox from './SearchBox';
+import CardList from '../components/CardList';
+import {items} from '../items';
+import Scroll from '../components/Scroll'
+import SearchBox from '../components/SearchBox';
 import './App.css'
 
 
@@ -24,9 +25,11 @@ class App extends React.Component {
     });
     return (
     <div className='tc'>
-      <h1 className='f1'>IYER'S COOKHOUSE</h1>
-      <SearchBox searchChange={this.onSearchChange}/>     
-      <CardList items={filteredItems}/>
+      <h1 className='f1'>IYER'S COOKHOUSE </h1>
+      <SearchBox searchChange={this.onSearchChange}/>
+      <Scroll>     
+        <CardList items={filteredItems}/>
+      </Scroll>
     </div>
     );
   }
