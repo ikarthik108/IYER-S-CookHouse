@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/IYERS-CookHouse/static/css/main.fd975631.chunk.css",
+    "main.js": "/IYERS-CookHouse/static/js/main.3f541b5f.chunk.js",
+    "main.js.map": "/IYERS-CookHouse/static/js/main.3f541b5f.chunk.js.map",
+    "runtime-main.js": "/IYERS-CookHouse/static/js/runtime-main.eb2e5297.js",
+    "runtime-main.js.map": "/IYERS-CookHouse/static/js/runtime-main.eb2e5297.js.map",
+    "static/css/2.fe359a49.chunk.css": "/IYERS-CookHouse/static/css/2.fe359a49.chunk.css",
+    "static/js/2.66808870.chunk.js": "/IYERS-CookHouse/static/js/2.66808870.chunk.js",
+    "static/js/2.66808870.chunk.js.map": "/IYERS-CookHouse/static/js/2.66808870.chunk.js.map",
+    "static/js/3.f6ffe0bf.chunk.js": "/IYERS-CookHouse/static/js/3.f6ffe0bf.chunk.js",
+    "static/js/3.f6ffe0bf.chunk.js.map": "/IYERS-CookHouse/static/js/3.f6ffe0bf.chunk.js.map",
+    "index.html": "/IYERS-CookHouse/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/IYERS-CookHouse/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.fd975631.chunk.css.map": "/IYERS-CookHouse/static/css/main.fd975631.chunk.css.map",
+    "static/js/2.66808870.chunk.js.LICENSE.txt": "/IYERS-CookHouse/static/js/2.66808870.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/IYERS-CookHouse/static/media/webfont.bbe6cbe8.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb2e5297.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.66808870.chunk.js",
+    "static/css/main.fd975631.chunk.css",
+    "static/js/main.3f541b5f.chunk.js"
+  ]
+}
